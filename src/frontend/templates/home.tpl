@@ -58,6 +58,9 @@
                 No messages are logged to the guestbook yet.
             </div>
         {{ end }}
+        <div>
+            <h2>Hello</h2>
+        </div>
     </div>
 </body>
 </html>
